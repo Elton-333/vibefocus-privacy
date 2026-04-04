@@ -3,6 +3,8 @@
 **Last updated / Última actualización:** January 18, 2026  
 **App ID:** com.app.vibefocus
 
+**For support, contact me at:** focusflow.supp@gmail.com
+
 > [English](#en) | [Español](#es) | [Deutsch](#de) | [日本語](#ja) | [Português](#pt)
 
 ---
