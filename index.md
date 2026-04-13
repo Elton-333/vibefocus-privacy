@@ -5,7 +5,7 @@
 
 **For support, contact me at:** focusflow.supp@gmail.com
 
-> [English](#en) | [Español](#es) | [Deutsch](#de) | [日本語](#ja) | [Português](#pt)
+> [English](#en) | [Español](#es) | [Deutsch](#de) | [日本語](#ja) | [Português](#pt) | [中文](#zh)
 
 ---
 
@@ -61,3 +61,20 @@ Na **VibeFocus**, valorizamos sua privacidade.
 * **Permissões:** Solicitamos apenas acesso aos Serviços de Primeiro Plano (áudio) e Vibração.
 * **Terceiros:** Não utilizamos ferramentas de análise ou publicidade.
 * **Contato:** focusflow.supp@gmail.com
+
+---
+
+<a name="zh"></a>
+
+## 6. 中文 (简体) (隐私政策)
+在 **VibeFocus**，我们非常重视您的隐私。本政策旨在说明我们如何在移动应用程序中处理信息。
+
+* **数据收集：** VibeFocus 是一款 100% 本地运行的应用。我们不会收集、存储或向外部服务器传输任何个人信息或行为数据。
+
+* **本地存储：** 所有偏好设置（声音、计时器、语言）均存储在您的设备本地，并在卸载应用后自动删除。
+
+* **权限说明：** 我们仅请求访问前台服务（用于音频播放）和振动权限。我们不会访问您的联系人、位置或摄像头。
+
+* **第三方插件：** 我们不使用任何第三方分析工具（如 Firebase、Analytics）或广告 SDK。
+
+* **联系方式：** focusflow.supp@gmail.com
